@@ -10,8 +10,8 @@
 
 - 🌱 Saat ini sedang belajar **Flutter**, **Laravel**, dan **IoT berbasis Arduino**
 - 🎯 Suka membuat aplikasi mobile dan sistem informasi berbasis web
-- 👨‍🏫 Seorang programer yang juga aktif riset dan proyek praktikum mahasiswa
-- 🛠️ Sedang mengerjakan proyek: **Plantify (tanaman pintar)** & **Inventory Bidcab**
+- 👨‍🏫 Seorang programer yang juga aktif 
+- 🛠️ Sedang mengerjakan proyek: 
 
 ---
 
@@ -50,7 +50,7 @@
 - 🌱 Saya belajar fullstack development secara otodidak & eksperimental
 - 🤖 Pernah membuat tanaman IoT yang bisa "minta disiram"
 - 🛠️ Suka eksperimen pakai WiFi adapter, Termux, dan reverse SSH
-- 🎓 Sering bimbing mahasiswa bikin project Android & Web Laravel
+
 
 ---
 
