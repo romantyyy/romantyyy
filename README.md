@@ -60,7 +60,7 @@
 <a href="romanamnesi@gmail.com">
   <img src="https://img.shields.io/badge/Email-kirim%20surel-informational?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/romantyyy" target="https://www.instagram.com/rmnty_?igsh=bGFudjZ6eXVvZm43">
+<a href="https://instagram.com/rmnty" target="https://www.instagram.com/rmnty_?igsh=bGFudjZ6eXVvZm43">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
